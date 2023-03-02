@@ -1,0 +1,495 @@
+{
+   
+        "postsDate": [
+          [
+            "December, Wednesday, 21",
+            {
+              "imgUrl": "imgs/user1.png",
+              "postName": "Sergey Levchenko ",
+              "postDate": "\n        09\n        :17\n        ",
+              "postContent": "System.out.println(\"Hello world\");",
+              "id": "0001",
+              "postId": "17288834"
+            }
+          ],
+          [
+            "February, Tuesday, 14",
+            {
+              "imgUrl": "imgs/user1.png",
+              "postName": "Sergey Levchenko ",
+              "postDate": "\n        14\n        :26\n        ",
+              "postContent": "Hello world 🌍",
+              "id": "0001",
+              "postId": "13622114"
+            },
+            {
+              "imgUrl": "imgs/user2.png",
+              "postName": "Sergey",
+              "postDate": "\n        14\n        :29\n        ",
+              "postContent": "I'm a new user",
+              "id": "0008",
+              "postId": "35715714"
+            },
+            {
+              "imgUrl": "imgs/user2.png",
+              "postName": "Sergey",
+              "postDate": "\n        14\n        :29\n        ",
+              "postContent": "Hi everyone ",
+              "id": "0008",
+              "postId": "13578612"
+            }
+          ]
+        ],
+
+
+        "usersDate": [
+            {
+              "email": "aaa",
+              "password": "aaa",
+              "name": "Sergey Levchenko ",
+              "img": "imgs/user1.png",
+              "id": "0001",
+              "friends": [
+                "0002",
+                "0004",
+                "0008"
+              ],
+              "treads": {
+                "0002": [
+                  "Monday, September, 5",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "21:35",
+                    "postContent": "Hello ",
+                    "id": "0001"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "21:35",
+                    "postContent": "My congratulations 🎉🎉",
+                    "id": "0001"
+                  },
+                  "October, Saturday, 15",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        22\n        :51\n        ",
+                    "postContent": "Hi",
+                    "id": "0001",
+                    "postId": "1012592"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        22\n        :51\n        ",
+                    "postContent": "oh hello",
+                    "id": "0001",
+                    "postId": "7675618"
+                  },
+                  "October, Tuesday, 18",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        15\n        :43\n        ",
+                    "postContent": "Hi",
+                    "id": "0001",
+                    "postId": "6787982"
+                  },
+                  "December, Saturday, 10",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        07\n        :17\n        ",
+                    "postContent": "Easter",
+                    "id": "0001",
+                    "postId": "9615346"
+                  },
+                  "February, Wednesday, 8",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        12\n        :59\n        ",
+                    "postContent": "6u67u6",
+                    "id": "0001",
+                    "postId": "8705106"
+                  }
+                ],
+                "0004": [
+                  "Monday, September, 19",
+                  {
+                    "imgUrl": "imgs/Layer 16.png",
+                    "postName": "Test",
+                    "postDate": "20:59",
+                    "postContent": "hyht",
+                    "id": "0004"
+                  },
+                  "Tuesday, September, 20",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "11:51",
+                    "postContent": "Hello",
+                    "id": "0001"
+                  },
+                  "Tuesday, October, 4",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "17:4",
+                    "postContent": "Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.",
+                    "id": "0001"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "17:6",
+                    "postContent": "Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.",
+                    "id": "0001"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "17:6",
+                    "postContent": "Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.",
+                    "id": "0001"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "17:6",
+                    "postContent": "Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.",
+                    "id": "0001"
+                  },
+                  "October, Thursday, 27",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        21\n        :48\n        ",
+                    "postContent": "4rt4eg45tg4",
+                    "id": "0001",
+                    "postId": "66992811"
+                  },
+                  "February, Tuesday, 14",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        14\n        :26\n        ",
+                    "postContent": "Hi",
+                    "id": "0001",
+                    "postId": "3756742"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        14\n        :26\n        ",
+                    "postContent": "Hi",
+                    "id": "0001",
+                    "postId": "7953572"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        14\n        :27\n        ",
+                    "postContent": "You ara welcome ",
+                    "id": "0001",
+                    "postId": "59805716"
+                  }
+                ],
+                "0008": [
+                  "February, Friday, 24",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        09\n        :58\n        ",
+                    "postContent": "Gfcv",
+                    "id": "0001",
+                    "postId": "1130754"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        09\n        :58\n        ",
+                    "postContent": "Fxbyh",
+                    "id": "0001",
+                    "postId": "5887845"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        09\n        :59\n        ",
+                    "postContent": "Bbv",
+                    "id": "0001",
+                    "postId": "5632503"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        09\n        :59\n        ",
+                    "postContent": "Ds",
+                    "id": "0001",
+                    "postId": "1506732"
+                  }
+                ]
+              }
+            },
+            {
+              "email": "levserg2003@gmail.com ",
+              "password": "Levsergallright2004",
+              "name": "Sergay ",
+              "img": "imgs/Photo.png",
+              "id": "0002",
+              "friends": [],
+              "treads": {
+                "0001": [
+                  "Monday, September, 5",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "21:35",
+                    "postContent": "Hello ",
+                    "id": "0001"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "21:35",
+                    "postContent": "My congratulations 🎉🎉",
+                    "id": "0001"
+                  },
+                  "October, Saturday, 15",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        22\n        :51\n        ",
+                    "postContent": "Hi",
+                    "id": "0001",
+                    "postId": "1012592"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        22\n        :51\n        ",
+                    "postContent": "oh hello",
+                    "id": "0001",
+                    "postId": "7675618"
+                  },
+                  "October, Tuesday, 18",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        15\n        :43\n        ",
+                    "postContent": "Hi",
+                    "id": "0001",
+                    "postId": "6787982"
+                  },
+                  "December, Saturday, 10",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        07\n        :17\n        ",
+                    "postContent": "Easter",
+                    "id": "0001",
+                    "postId": "9615346"
+                  },
+                  "February, Wednesday, 8",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        12\n        :59\n        ",
+                    "postContent": "6u67u6",
+                    "id": "0001",
+                    "postId": "8705106"
+                  }
+                ]
+              }
+            },
+            {
+              "email": "eee",
+              "password": "eee",
+              "name": "eee",
+              "img": "imgs/Layer 21.png",
+              "id": "0003",
+              "friends": [],
+              "treads": {}
+            },
+            {
+              "email": "Test",
+              "password": "Test",
+              "name": "Test",
+              "img": "imgs/Layer 16.png",
+              "id": "0004",
+              "friends": [
+                "0001"
+              ],
+              "treads": {
+                "0001": [
+                  "Monday, September, 19",
+                  {
+                    "imgUrl": "imgs/Layer 16.png",
+                    "postName": "Test",
+                    "postDate": "20:59",
+                    "postContent": "hyht",
+                    "id": "0004"
+                  },
+                  "Tuesday, September, 20",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "11:51",
+                    "postContent": "Hello",
+                    "id": "0001"
+                  },
+                  "Tuesday, October, 4",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "17:4",
+                    "postContent": "Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.",
+                    "id": "0001"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "17:6",
+                    "postContent": "Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.",
+                    "id": "0001"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "17:6",
+                    "postContent": "Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.",
+                    "id": "0001"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "17:6",
+                    "postContent": "Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.",
+                    "id": "0001"
+                  },
+                  "October, Thursday, 27",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        21\n        :48\n        ",
+                    "postContent": "4rt4eg45tg4",
+                    "id": "0001",
+                    "postId": "66992811"
+                  },
+                  "February, Tuesday, 14",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        14\n        :26\n        ",
+                    "postContent": "Hi",
+                    "id": "0001",
+                    "postId": "3756742"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        14\n        :26\n        ",
+                    "postContent": "Hi",
+                    "id": "0001",
+                    "postId": "7953572"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        14\n        :27\n        ",
+                    "postContent": "You ara welcome ",
+                    "id": "0001",
+                    "postId": "59805716"
+                  }
+                ]
+              }
+            },
+            {
+              "email": "sasss@",
+              "password": "sassssssssss",
+              "name": "sasss",
+              "img": "imgs/user2.png",
+              "id": "0005",
+              "friends": [],
+              "treads": {}
+            },
+            {
+              "email": "rtgrtg",
+              "password": "rtgrtg",
+              "name": "rgrtg",
+              "img": "imgs/user2.png",
+              "id": "0006",
+              "friends": [],
+              "treads": {}
+            },
+            {
+              "email": "levserg2004",
+              "password": "levserg2003@gmail.com ",
+              "name": "Repeat",
+              "img": "imgs/user2.png",
+              "id": "0007",
+              "friends": [],
+              "treads": {}
+            },
+            {
+              "email": "levserg2003@gmail.com ",
+              "password": "levserg2004",
+              "name": "Sergey",
+              "img": "imgs/user2.png",
+              "id": "0008",
+              "friends": [],
+              "treads": {
+                "0001": [
+                  "February, Friday, 24",
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        09\n        :58\n        ",
+                    "postContent": "Gfcv",
+                    "id": "0001",
+                    "postId": "1130754"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        09\n        :58\n        ",
+                    "postContent": "Fxbyh",
+                    "id": "0001",
+                    "postId": "5887845"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        09\n        :59\n        ",
+                    "postContent": "Bbv",
+                    "id": "0001",
+                    "postId": "5632503"
+                  },
+                  {
+                    "imgUrl": "imgs/user1.png",
+                    "postName": "Sergey Levchenko ",
+                    "postDate": "\n        09\n        :59\n        ",
+                    "postContent": "Ds",
+                    "id": "0001",
+                    "postId": "1506732"
+                  }
+                ]
+              }
+            },
+            {
+              "email": "admin",
+              "password": "admin",
+              "name": "user",
+              "img": "imgs/Photo.png",
+              "id": "0009",
+              "friends": [
+                "0008",
+                "0001"
+              ],
+              "treads": {}
+            }
+          ]
+}
